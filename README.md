@@ -52,6 +52,14 @@ Here is an example of a graph produced by the `forecast.py` script:
 
 *Note: This graph is generated from sample data for demonstration purposes only.*
 
+## Limitations
+While BizForecast-EcoTrends leverages advanced ARIMA models to forecast economic trends, it's important to understand the model's inherent limitations. This forecasting tool is developed with a focus on historical time-series data, specifically inwards and outwards quantities, and does not incorporate external economic factors such as market demand, supply fluctuations, inflation rates, or geopolitical changes.
+
+Additionally, the model does not account for sudden market disruptions or unanticipated events, which can significantly impact economic activities and their outcomes. As such, while BizForecast-EcoTrends provides a data-driven foundation for forecasting, the exclusion of these external variables could affect the precision and reliability of the forecasts.
+
+Users should consider these limitations and apply complementary analysis to incorporate broader economic indicators and market conditions when making business decisions based on these forecasts. The tool is best used as one component in a comprehensive decision-making framework that considers a wide array of economic and market factors.
+
+
 ##
 This README is a part of the BizForecast-EcoTrends Project by Rajat Maheshwari.
 
