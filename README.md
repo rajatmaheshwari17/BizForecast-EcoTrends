@@ -52,5 +52,10 @@ Here is an example of a graph produced by the `forecast.py` script:
 
 *Note: This graph is generated from sample data for demonstration purposes only.*
 
+##
+This README is a part of the BizForecast-EcoTrends Project by Rajat Maheshwari.
+
+
+
 
 
