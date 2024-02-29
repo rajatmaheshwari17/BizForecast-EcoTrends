@@ -24,7 +24,7 @@ pip install pandas matplotlib statsmodels
 ### Setup
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/your-username/BizForecast-EcoTrends.git
+git clone https://github.com/rajatmaheshwari17/BizForecast-EcoTrends.git
 cd BizForecast-EcoTrends
 ```
 
